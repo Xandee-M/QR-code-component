@@ -4,26 +4,10 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+I just wanted to share with you all about the frontend coding challenge I completed. This incredible challenge is part of Frontend Mentor, a platform that helps improve our coding skills through the construction of realistic projects.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+To complete this challenge, a basic understanding of HTML and CSS was necessary. Fortunately, I was already somewhat familiar with these technologies, which made the process smoother.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+The challenge's objective was to build a QR code component and get it looking as close to the provided design as possible. It was a fantastic opportunity to apply my knowledge of style, layout, and responsiveness. I had the freedom to choose the tools that best suited my workflow, which was really cool.
 
-## The challenge
-
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-**Have fun building!** 🚀
+Building this project was both a fun and educational experience. I gained more confidence in my coding skills and learned some useful tips along the way. 🚀
